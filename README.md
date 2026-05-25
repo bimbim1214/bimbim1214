@@ -16,10 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=bimbim1214&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bimbim1214&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=bimbim1214&icon=2&color=0)](https://visitcount.itsvg.in)
