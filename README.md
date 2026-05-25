@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**bimbim1214/bimbim1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Bimo Aditya Pangestu
+role: Web & Mobile Developer
+location: Indonesia
 
-Here are some ideas to get you started:
+currently_working_on:
+  - Developing web applications with Laravel, PHP, and Blade
+  - Building audit and COBIT-based information system projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning:
+  - Laravel deployment and web application development
+  - Flutter integration with REST API backend
+  - Clean code, testing, and responsive UI development
+
+interests:
+  - Full-Stack Web Development
+  - Mobile Application Development
+  - REST API Development
+  - Database Management
+
+technologies:
+  - Laravel
+  - PHP
+  - Flutter
+  - Dart
+  - Kotlin
+  - JavaScript
+  - MySQL
+  - C++
